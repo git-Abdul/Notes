@@ -1,8 +1,8 @@
-<img src="https://i.postimg.cc/Hn8Z7tGc/Screenshot-2023-08-08-204846.png">
-
 # Notes App 📝
 
 This is a simple web application built using React that allows you to create and manage notes.
+
+<img src="https://i.postimg.cc/Hn8Z7tGc/Screenshot-2023-08-08-204846.png">
 
 ## 🚀 Getting Started
 
