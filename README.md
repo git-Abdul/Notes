@@ -9,7 +9,7 @@ This is a simple web application built using React that allows you to create and
 1. Clone the repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/git-Abdul/Notes
 ```
 
 2. Navigate to the project directory.
@@ -60,5 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 ```bash
 npx create-next-app notes
 ```
-
-Feel free to customize this README according to your needs. Make sure to replace `<repository-url>` with the actual URL of your repository.
