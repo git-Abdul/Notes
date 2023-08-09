@@ -68,7 +68,7 @@ export default function Home() {
       <nav className="">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-10">
         <a href="#" class="flex items-center">
-          <img src="https://i.postimg.cc/15RNW37X/logo.png" class="h-8 mr-3" alt="Flowbite Logo" />
+          <img src="https://i.postimg.cc/15RNW37X/logo.png" class="h-8 mr-3" alt="Logo" />
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Notes</span>
         </a>
           <div className="flex md:order-2 space-x-3">
